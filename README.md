@@ -23,7 +23,7 @@ to "WeiDU", but there are three more reasons I had in mind for picking it:
   making it "rēdu" --- which sounds similar to how "redo" may be pronounced
   if one has a heavy Polish accent (which I definitely don't have... right?).
 
-  "I wanted to redo WeiDU, so I'm creating ReiDU".
+  "I wanted to redo WeiDU, so I'm creating ReiDU"
 
 One of the main problems with creating other tools for Infinity Engine is that
 there are so many mods written in it already! Who has time to rewrite it all
